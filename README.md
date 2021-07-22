@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KevinGA98
-- 👀 I studied electronic engineering and comunications. Have some knowledgements about uC, devBoards, and programming languages like Javascript, Python. Also I'm musician and want to learn more about all of this from the hand of others.
+- 👀 I studied electronic engineering and comunications. Have some knowledge about uC, devBoards, and programming languages like Javascript, Python. Also I'm musician and want to learn more about all of this from the hand of others.
 - 🌱 I’m currently learning web development, python and others.
 - 📫 How to reach me: kevinalvarado.kga@gmail.com
